@@ -1,0 +1,25 @@
+{
+  "name": "next-twelve",
+  "version": "1.0.0",
+  "description": "App nextjs 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Andres Burbano",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.9",
+    "@types/react": "^18.2.33",
+    "typescript": "^5.2.2"
+  }
+}
